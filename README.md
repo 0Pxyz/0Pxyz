@@ -33,9 +33,7 @@ I'm a **security researcher** and **full-stack developer** breaking and building
 
 ### 🧠 About Me
 
-I'm a curious and hands-on security researcher and developer, passionate about Web3, Web2 security, and building cool stuff.
-I explore smart contract vulnerabilities, dig into web app bugs, and create tools, experiments, and full-stack projects.
-I enjoy solving CTFs, learning new things, and breaking things to understand how they work.
+I'm a curious and hands-on security researcher and developer, passionate about Web3 and Web2 security, as well as building cool stuff. I explore smart contract vulnerabilities, dig into web app bugs, and create tools, experiments, and full-stack projects. I enjoy solving CTFs, learning new things, and breaking things to understand how they work.
 
 
 ---
