@@ -101,10 +101,10 @@ I enjoy solving CTFs, learning new things, and breaking things to understand how
     <a href="https://app.daily.dev/0xpx"><img src="https://api.daily.dev/devcards/v2/UmEhXxgJXqEZY5ScrOBoK.png?r=mex&type=wide" width="452" alt="0xpx's Dev Card"/></a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xpxyz&show_icons=true&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=0Pxyz&show_icons=true&theme=tokyonight&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Stats"/>
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=0xpxyz&theme=tokyonight&column=3&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=0Pxyz&theme=tokyonight&column=3&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies"/>
 </p>
 </details>
 
